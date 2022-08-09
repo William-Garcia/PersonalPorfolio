@@ -17,16 +17,17 @@ export const projects = [
     visit: 'https://google.com',
     id: 1,
   },
-  /*
+  
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Currency Converter',
+    description: "This is a code repository that is a utility to convert currency rates to and from several countries.",
+      image: '/images/3.png',
+      tags: ['Java', 'OOP', 'JavaGUI'],
+    source: 'https://github.com/William-Garcia/CurrencyConverter',
+    visit: 'N/A',
     id: 2,
   },
+  /*
   {
     title: 'Unichat',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
