@@ -13,8 +13,8 @@ export const projects = [
     description:"Seems like we are getting ourselves in a loop or a recursion. A portfolio is your resume and your business card so I decided I need one too. All of my experiences will go here and be documented along side the source code and a link to visit to check them out.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/William-Garcia/PersonalPorfolio',
+    visit: 'https://williamgarciaporfolio.netlify.app/',
     id: 1,
   },
   
