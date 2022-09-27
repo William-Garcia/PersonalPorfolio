@@ -44,13 +44,14 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>About Me Y Mas</SectionTitle>
       <SectionText>
-      Along side leaning new things my favorite things to do is playing video games and watching tv shows. My favorite type of food is Mexican Food
-      and oh boy I can't stop loving getting tacos al-pastor. I love visting Mexico since some of my family and friends live there and I am greatful I had to visit
-      Panama and some states here in America. In the future I want to vist multiple countries and expereince what is it like there. My goals for the moment is to obtain a internship
-      and learn new languages like Swift and see if I can create an app since I mostly have Apple products. The projects that I have here are outside the classroom in my own time. Moslty none
-      of my school work will be here unless I think it is worthy of being here. 
+      Alongside learning new things my favorite things to do is playing video games and watching tv shows. 
+      My favorite cuisine is Mexican food; from tacos al pastor, tamales, mole, and so on. 
+      Traveling is also an activity that I enjoy. Whether it be Mexico, Panama, Canada, or states like Florida, Tennessee, and others, there is something new I can experience. 
+      In the future, I want to visit multiple countries and experience what it's like there. 
+      My goals for the moment are to obtain an internship and learn new programming languages like Swift and see if I can create an app since I mostly have Apple products. 
+      The projects here are outside the classroom in my own time. None of my school work will be here unless I think it is worthy of being here.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
